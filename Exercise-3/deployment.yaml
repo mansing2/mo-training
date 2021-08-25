@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: exercise
+  name: exercise-svc
   labels:
     app: nginx
 spec:
